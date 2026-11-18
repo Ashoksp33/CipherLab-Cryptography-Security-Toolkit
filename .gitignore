@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+.pytest_cache/
+
+# Encryption keys and outputs
+*.pem
+*.enc
+*.key
+
+# Environment & OS files
+.env
+.DS_Store
+Thumbs.db
